@@ -8,7 +8,7 @@
 煩わしいidとパスワードからおさらばだ☆
 
 ☆初期設定の説明☆
-まずnet2.jsのコードをコピーします。 >>net2.js(https://github.com/kumaryu-w/net/blob/main/net2.js)
+まずnet2.jsのコードをコピーします。 net2.jsのコードはここ→ https://github.com/kumaryu-w/net/blob/main/net2.js
 その後、テキストエディタ（ない場合はテキストアプリ）にペーストします。
 id変数とpass変数に自分のidとpassを入力します。
 passに特殊キーが含まれるときは特殊キーを{}で囲ってください。
